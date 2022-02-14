@@ -2,7 +2,4 @@ hello
 
 second commit
 
-
-third commit
-
-fouth commit
+hello world
